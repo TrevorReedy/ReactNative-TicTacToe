@@ -67,7 +67,6 @@ This project is licensed under **MIT** – use it, tweak it, make it awesome!
 
 **Happy Coding!** 👨‍💻👩‍💻  
 
-*(Replace placeholders like `your-username/your-repo` with actual project details.)*  
 
 ---
 
