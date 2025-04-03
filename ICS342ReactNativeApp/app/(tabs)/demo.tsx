@@ -62,7 +62,7 @@ const TicTacToe = () => {
     }
     
     // AI move
-   makeAIMove(newBoard); // Small delay (500ms) for better UX, feels like the AI is "thinking"
+    setTimeout(() => makeAIMove(newBoard), 500); // Small delay (300ms) for better UX, feels like the AI is "thinking"
   };
 
 
