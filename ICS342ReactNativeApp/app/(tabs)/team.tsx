@@ -24,7 +24,13 @@ export default function teamMemberScreen() {
       </ThemedView>
       <ThemedText>Say hi to our team members</ThemedText>
       <Collapsible title="Jaileia Yang">
-        // Insert your items here
+        <ThemedText>
+            Hi! <br></br>
+            My name is Jaileia Yang and I am majoring in Computer Information Technology.
+            This is my last semester here at Metropolitan State University and I will be graduating
+            this Spring. I am happy to have been a part of this group as it has taught me so much
+            about React Native. A fun fact about me is that I enjoy UX design!
+        </ThemedText>
       </Collapsible>
       <Collapsible title="Natalia Johnson">
         // Insert your items here
