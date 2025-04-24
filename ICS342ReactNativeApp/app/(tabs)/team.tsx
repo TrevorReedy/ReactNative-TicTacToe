@@ -55,7 +55,7 @@ export default function teamMemberScreen() {
       <Collapsible title="Trevor Reedy">
         <ThemedText>
         Hello! {"\u263A"} <br></br>
-        Hello, my name is [Your Name], and I am currently a junior at Metropolitan State 
+        Hello, my name is Trevor, and I am currently a junior at Metropolitan State 
         University with a strong passion for software development. I am particularly drawn 
         to working with real-world data and leveraging my skills to manipulate and analyze it 
         in ways that provide value to users. I find it incredibly rewarding to transform complex, 
