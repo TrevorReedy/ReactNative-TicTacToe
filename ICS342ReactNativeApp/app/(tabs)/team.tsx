@@ -36,7 +36,13 @@ export default function teamMemberScreen() {
         // Insert your items here
       </Collapsible>
       <Collapsible title="Nick Kelley">
-        // Insert your items here
+        <ThemedText>
+          Hi there! <br></br>
+          I'm Nick Kelley, currently a junior at Metro State majoring in Computer Science.
+          I like working on computers because it is difficult and challenging, plus its a skill that
+          most people don't have. This class was my first glimpse into mobile development and
+          I found it very engaging!
+        </ThemedText>
       </Collapsible>
       <Collapsible title="Noah Willgohs">
         // Insert your items here
