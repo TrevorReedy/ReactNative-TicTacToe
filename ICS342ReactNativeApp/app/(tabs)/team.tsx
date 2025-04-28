@@ -45,10 +45,15 @@ export default function teamMemberScreen() {
         </ThemedText>
       </Collapsible>
       <Collapsible title="Noah Willgohs">
-        // Insert your items here
+        <ThemedText>
+            Hello, I am Noah Willgohs <br></br>
+            I am a senior here at Metropolitan State University majoring in Computer Science.
+            This is my last semester here as I will be graduating after it. This was an interesting
+            and, at least for me, somewhat difficult class, as I had a good amount of difficulty understanding
+            Android architecture. It was neat to learn a little bit more about the innerworkings of React.
+        </ThemedText>
       </Collapsible>
       <Collapsible title="Rayleigh Thai">
-        {/* // Insert your items here */}
         <ThemedText>
             Hello there, I'm Ray. <br></br>
             Currently Student at Metropolitan State University studying Computer Science. 
