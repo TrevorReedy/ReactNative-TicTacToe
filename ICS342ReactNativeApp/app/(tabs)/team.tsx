@@ -33,7 +33,13 @@ export default function teamMemberScreen() {
         </ThemedText>
       </Collapsible>
       <Collapsible title="Natalia Johnson">
-        // Insert your items here
+        <ThemedText>
+            Hey there! <br></br>
+            I'm Natalia Johnson, majoring in Computer Information Technology, I'll be graduating at the end
+            of this semester. This class has been pretty disconnected from most of the others I've taken,
+            until this class I never has given much thought to app development. This class has been very informative
+            and I'm glad I decided to take it!
+        </ThemedText>
       </Collapsible>
       <Collapsible title="Nick Kelley">
         <ThemedText>
