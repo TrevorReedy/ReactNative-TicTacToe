@@ -25,7 +25,7 @@ export default function teamMemberScreen() {
       <ThemedText>Say hi to our team members</ThemedText>
       <Collapsible title="Jaileia Yang">
         <ThemedText>
-            Hi! <br></br>
+            Hi! {'\n'}
             My name is Jaileia Yang and I am majoring in Computer Information Technology.
             This is my last semester here at Metropolitan State University and I will be graduating
             this Spring. I am happy to have been a part of this group as it has taught me so much
@@ -34,7 +34,7 @@ export default function teamMemberScreen() {
       </Collapsible>
       <Collapsible title="Natalia Johnson">
         <ThemedText>
-            Hey there! <br></br>
+            Hey there! {'\n'}
             I'm Natalia Johnson, majoring in Computer Information Technology, I'll be graduating at the end
             of this semester. This class has been pretty disconnected from most of the others I've taken,
             until this class I never has given much thought to app development. This class has been very informative
@@ -43,7 +43,7 @@ export default function teamMemberScreen() {
       </Collapsible>
       <Collapsible title="Nick Kelley">
         <ThemedText>
-          Hi there! <br></br>
+          Hi there! {'\n'}
           I'm Nick Kelley, currently a junior at Metro State majoring in Computer Science.
           I like working on computers because it is difficult and challenging, plus its a skill that
           most people don't have. This class was my first glimpse into mobile development and
@@ -52,7 +52,7 @@ export default function teamMemberScreen() {
       </Collapsible>
       <Collapsible title="Noah Willgohs">
         <ThemedText>
-            Hello, I am Noah Willgohs <br></br>
+            Hello, I am Noah Willgohs {'\n'}
             I am a senior here at Metropolitan State University majoring in Computer Science.
             This is my last semester here as I will be graduating after it. This was an interesting
             and, at least for me, somewhat difficult class, as I had a good amount of difficulty understanding
@@ -61,7 +61,7 @@ export default function teamMemberScreen() {
       </Collapsible>
       <Collapsible title="Rayleigh Thai">
         <ThemedText>
-            Hello there, I'm Ray. <br></br>
+            Hello there, I'm Ray. {'\n'}
             Currently Student at Metropolitan State University studying Computer Science. 
             I'm interest in Network Security and Software Development. 
             Sometime, bugs spawn in least likely to be noticed in development process that 
@@ -71,7 +71,7 @@ export default function teamMemberScreen() {
       </Collapsible>
       <Collapsible title="Trevor Reedy">
         <ThemedText>
-        Hello! {"\u263A"} <br></br>
+        Hello! {"\u263A"} {'\n'}
         Hello, my name is Trevor, and I am currently a junior at Metropolitan State 
         University with a strong passion for software development. I am particularly drawn 
         to working with real-world data and leveraging my skills to manipulate and analyze it 
